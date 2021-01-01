@@ -1,0 +1,36 @@
+body{
+	background: url(healthOpedia.png) no-repeat center center fixed; 
+	background-size: cover;
+	padding-left: 85%;
+}
+
+#f1{
+	font-size: 30px;
+}
+
+h1{
+	text-align: center;
+	padding-top: 250px;
+	text-decoration: 
+}
+
+.center{
+	margin: 0;
+	position: absolute;
+	top: 58%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+button{
+	background-color: #38d39f;
+	border-radius: 8px;
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
